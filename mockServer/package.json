@@ -1,0 +1,22 @@
+{
+  "name": "digitalmockserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon node ./mockserver.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.17.1",
+    "nodemon": "2.0.2"
+    // "axios": "^0.19.2",
+    // "bootstrap": "^4.5.0",
+    // "moment": "^2.25.3",
+    // "querystring": "^0.2.0",
+    // "url": "^0.11.0",
+    // "vue": "^2.6.11"
+  }
+}
+
