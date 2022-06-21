@@ -1,0 +1,19 @@
+{
+  "name": "digitalfestarterkit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aparna150225/DigitalFEStarterKit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aparna150225/DigitalFEStarterKit/issues"
+  },
+  "homepage": "https://github.com/aparna150225/DigitalFEStarterKit#readme"
+}
